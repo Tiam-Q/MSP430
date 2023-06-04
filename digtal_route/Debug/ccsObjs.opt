@@ -1,0 +1,1 @@
+"./main.obj" "./user/bsp_uart.obj" "./user/digtal_route.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 

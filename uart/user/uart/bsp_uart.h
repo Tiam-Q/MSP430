@@ -1,0 +1,20 @@
+#ifndef BSP_USRT_H_
+#define BAP_UART_H_
+
+
+#include<msp430.h>
+
+
+void USART0_Config(void);              //P3.3(TX)  P3.4(RX)
+void USART1_Config(void);              //P4.4(TX)  P4.5(RX)   Á¬½ÓUSB
+void send0_buf(unsigned char *ptr);    //·¢ËÍ×Ö·û´®
+void send1_buf(unsigned char *ptr);    //·¢ËÍ×Ö·û´®
+
+
+
+
+
+
+#endif /*BAP_UART_H_*/
+
+

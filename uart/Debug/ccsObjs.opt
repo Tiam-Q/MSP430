@@ -1,0 +1,1 @@
+"./main.obj" "./user/delay/bsp_delay.obj" "./user/uart/bsp_uart.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 

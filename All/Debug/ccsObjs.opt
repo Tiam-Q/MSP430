@@ -1,0 +1,1 @@
+"./main.obj" "./user/delay/bsp_delay.obj" "./user/digtal_route/digtal_route.obj" "./user/filter/filter.obj" "./user/hc05/bsp_hc05.obj" "./user/hc_sr/hc_sr.obj" "./user/key/bsp_key.obj" "./user/motor/bsp_motor.obj" "./user/oled/oled.obj" "./user/pid/pid.obj" "./user/uart/bsp_uart.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
